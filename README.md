@@ -1,1 +1,1 @@
-VSCODE view : [here](https://github.com/Jody-septiawan/batch22-be)
+VSCODE view : [here](https://github1s.com/Jody-septiawan/batch22-be)
